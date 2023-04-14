@@ -1,0 +1,225 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    height: 100vh;
+}
+
+.left-content {
+    display: inline-block;
+    width: 400px;
+    height: 100%;
+    background: rgba(47, 128, 237, 1);
+}
+
+.title-content {
+    padding-left: 47.17px;
+}
+
+.title-content h2 {
+    display: inline-block;
+    color: white;
+    padding-top: 64px;
+    margin-left: 19.17px;
+}
+
+.button-box {
+    display: inline-block;
+    margin-top: 119px;
+    padding-left: 47.17px;
+}
+
+.button-box button {
+    margin-top: 30px;
+    width: 300px;
+    height: 60px;
+    background-color: black;
+    color: white;
+    font-size: 24px;
+}
+
+.button-box a {
+    color: white;
+}
+
+.right-content {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 75px;
+} 
+
+.right-content h2 {
+    width: 520px;
+    font-size: 36px;
+    margin-left: 500px;
+}
+
+.right-content img {
+    width: 951px;
+    height: 500px;
+}
+
+.right-content h3 {
+    width: 470px;
+    font-size: 36px;
+}
+
+/* settings-section */
+
+.settings-box {
+    padding-top: 157px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.settings-box  li{
+    padding-top: 50px;
+}
+
+.settings-box p {
+    display: inline-block;
+    color: white;
+    margin-left: 13px;
+}
+
+.logout-box {
+    padding-top: 250px;
+}
+
+.right-content-of-settings {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 65px;
+    padding-left: 73px;
+}
+
+.right-content-of-settings h3 {
+    font-size: 24px;
+    color: rgba(81, 81, 81, 1);
+}
+
+.group-row {
+    padding-top: 103px;
+}
+
+.checkbox-content {
+    width: 400px;
+    height: 75px;
+    border: 1px solid rgba(130, 130, 130, 1);
+    padding-top: 24px;
+    padding-left: 29px;
+}
+
+.checkbox-content input {
+    width: 40px;
+    height: 40px;
+    margin-left: 290px;
+    margin-top: -30px;
+}
+
+.input-rows {
+    padding-top: 31px;
+}
+
+.input-rows input {
+    width: 400px;
+    height: 75px;
+    padding-left: 29px;
+    font-size: 18px;
+}
+
+::placeholder {
+    color: black;
+}
+
+.settings-button {
+    padding-top: 42px;
+}
+
+.settings-button button {
+    width: 130px;
+    height: 75px;
+    background-color: black;
+    color: white;
+    font-size: 24px;
+}
+
+/* dashboard-section */
+
+.right-content-of-dashboard {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 65px;
+    padding-left: 73px;
+}
+
+.right-content-of-dashboard h3 {
+    font-size: 24px;
+    color: rgba(81, 81, 81, 1);
+}
+
+
+.right-content-of-dashboard p {
+    padding-top: 36px;
+}
+
+.views-boxs {
+    display: flex;
+    width: 813px;
+    height: 150px;
+    padding-top: 23px;
+    gap: 58px;
+}
+
+.box-rows {
+    width: 243px;
+    height: 150px;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 56px;
+}
+
+.box-rows h6 {
+    font-size: 36px;
+    line-height: 3px;
+}
+
+.box-rows p {
+    font-size: 12px;
+}
+
+.right-content-buttons {
+    width: 788px;
+    margin-top: 30px;
+}
+
+.right-content-buttons p {
+    font-size: 18px;
+}
+
+.right-content-input-rows input {
+    width: 100%;
+    height: 40px;
+    font-size: 18px;
+    padding-left: 39px;
+}
+
+.right-content-input-rows {
+    padding-top: 16px;
+}
+
+
+
+
+
+
